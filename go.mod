@@ -1,3 +1,3 @@
-module git.imooc.com/_peter/moody
+module github.com/AuroraYolo/moody.git
 
 go 1.17
